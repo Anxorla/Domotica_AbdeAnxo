@@ -17,4 +17,4 @@ Para a correcta realización do proxecto, decidimos realizar un fluxo de traball
 
                                                 E este, o noso fluxo de traballo :
                                                 
-file:///home/a21anxorla/Descargas/flujo_trabajo_hajar.jpg![imaxe](https://user-images.githubusercontent.com/129267156/235869151-fcc0175a-c4fe-49d4-b6de-1caadf519fc7.png)
+![imaxe](https://user-images.githubusercontent.com/129267156/235869151-fcc0175a-c4fe-49d4-b6de-1caadf519fc7.png)
