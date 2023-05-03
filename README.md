@@ -14,3 +14,5 @@ Para a correcta realización do proxecto, decidimos realizar un fluxo de traball
                                                    Este é o noso mapa mental :
 
 ![imaxe](https://user-images.githubusercontent.com/129267156/235868421-fa19e1c3-6826-4cca-8e32-3e3d2ceb917b.png)
+
+                                                E este, o noso fluxo de traballo :
