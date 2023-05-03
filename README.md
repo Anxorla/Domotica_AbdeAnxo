@@ -11,6 +11,6 @@ Estas automatizacións tendrán base en relacións sensor-activador. Por exemplo
 
 Para a correcta realización do proxecto, decidimos realizar un fluxo de traballo e un mapa mental entre os membros do equipo para unha mellor organización do traballo.
 
-                                                        Este é o noso mapa mental :
+                                                   Este é o noso mapa mental :
 
 ![imaxe](https://user-images.githubusercontent.com/129267156/235868421-fa19e1c3-6826-4cca-8e32-3e3d2ceb917b.png)
