@@ -9,7 +9,7 @@ action:                               #Activación do relé ao chegar aos 25ªC
   - service: switch.turn_on
     data: {}
     target:
-      area_id: abdean
+      area_id: AbdeAnxo
       device_id: e0d1bb5f9d75acbc8129b20b2697024e
       entity_id: switch.esp32_iot4_rele
 mode: single
