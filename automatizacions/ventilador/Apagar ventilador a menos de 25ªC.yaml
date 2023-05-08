@@ -1,4 +1,4 @@
-alias: Apagar Ventilador a 25ªC         #Nome da automatización
+alias: Apagar Ventilador a <25ªC         #Nome da automatización
 description: ""
 trigger:                                #Condicións nas que se activa (detección de <25ªC polo DHT11)
   - platform: numeric_state
